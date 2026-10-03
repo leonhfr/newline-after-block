@@ -175,11 +175,11 @@ formatters:
       sections:
         - standard
         - default
-        - prefix(github.com/breml/newline-after-block)
+        - prefix(github.com/leonhfr/newline-after-block)
 
     goimports:
       local-prefixes:
-        - github.com/breml/newline-after-block
+        - github.com/leonhfr/newline-after-block
 
 issues:
   max-issues-per-linter: 0

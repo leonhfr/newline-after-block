@@ -21,13 +21,13 @@ This helps maintain consistent code formatting and improves readability by visua
 ### Using `go install`
 
 ```bash
-go install github.com/breml/newline-after-block/cmd/newline-after-block@latest
+go install github.com/leonhfr/newline-after-block/cmd/newline-after-block@latest
 ```
 
 ### Building from source
 
 ```bash
-git clone https://github.com/breml/newline-after-block.git
+git clone https://github.com/leonhfr/newline-after-block.git
 cd newline-after-block
 go build -o bin/newline-after-block ./cmd/newline-after-block
 ```
@@ -68,7 +68,7 @@ linters:
     newline-after-block:
       path: /path/to/newline-after-block
       description: Checks for newline after block statements
-      original-url: https://github.com/breml/newline-after-block
+      original-url: https://github.com/leonhfr/newline-after-block
 ```
 
 ## Rules

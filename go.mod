@@ -1,4 +1,4 @@
-module github.com/breml/newline-after-block
+module github.com/leonhfr/newline-after-block
 
 go 1.24.5
 

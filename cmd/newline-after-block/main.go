@@ -4,7 +4,7 @@ package main
 import (
 	"golang.org/x/tools/go/analysis/singlechecker"
 
-	newlineafterblock "github.com/breml/newline-after-block"
+	newlineafterblock "github.com/leonhfr/newline-after-block"
 )
 
 func main() {
